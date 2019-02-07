@@ -2134,10 +2134,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: An ally of yours is stuck in a nearby star system and needs your help getting
-    back home. They promise great riches upon arrival to thier homeland. A trip like
-    that will need a lot of fuel, and maybe the help of the stars themselves... Do
-    you take the offer?
+  m_Text: An asteroid mining operation's fusion core de-stabilized and now thousands
+    are stranded in orbit around Ceres. Ceres is on your path back to earth, but it
+    won't be an easy one. Do you save your friends, or get home safe without them?
+    (see readme for more)
 --- !u!222 &1957591799
 CanvasRenderer:
   m_ObjectHideFlags: 0
